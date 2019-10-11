@@ -1,0 +1,6 @@
+com\jancurtis\futbin\connecter\requests\constants\PlayerSearchFilters.class
+com\jancurtis\futbin\connecter\requests\PlayersSearch.class
+com\jancurtis\futbin\connecter\requests\constants\PlayerSearchOrder.class
+com\jancurtis\futbin\connecter\requests\SearchBase.class
+com\jancurtis\futbin\connecter\requests\constants\PlayerAttributes.class
+com\jancurtis\futbin\connecter\requests\constants\PlayerSearchSort.class
